@@ -2,7 +2,7 @@
 
 This is a repository to demonstrate the GitPersistenceProvider that has been made available in Apache NiFi Registry 0.2.0.
 
-This repository was used [as part of a presentation on FDLC with Apache NiFi at DataWorks Summit San Jose 2018](https://dataworkssummit.com/san-jose-2018/session/sdlc-with-apache-nifi/). If you attended that session, welcome! I hope you found it and the materials in this repo useful. Feel free to reach out with any questions here or on twitter or on the NiFi mailing lists.
+This repository was used [as part of a presentation on FDLC with Apache NiFi at DataWorks Summit San Jose 2018](https://www.youtube.com/watch?v=yKmVBTeZS4c). If you attended that session, welcome! I hope you found it and the materials in this repo useful. Feel free to reach out with any questions here or on twitter or on the NiFi mailing lists.
 
 ## Automation Scripts
 
